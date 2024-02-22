@@ -31,7 +31,7 @@ address for the greatrecipesforme.com URL. The network traffic was then
 rerouted to the new IP address for the greatrecipesforme.com website.
 The senior cybersecurity professional analyzed the source code for the
 
-websites and the downloaded file. The analyst discovered that an attacker had
+- websites and the downloaded file. The analyst discovered that an attacker had
 manipulated the website to add code that prompted the users to download a
 malicious file disguised as a browser update. Since the website owner stated
 that they had been locked out of their administrator account, the team
