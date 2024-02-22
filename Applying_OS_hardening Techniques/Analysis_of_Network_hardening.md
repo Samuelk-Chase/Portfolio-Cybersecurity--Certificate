@@ -17,4 +17,7 @@
 2) Multifactor Authentication (MFA)
 3) Firewall maintenance 
 ## Part 2 Explain your recommendations: 
-- The reason I chose those three tools is as follows. First the passowrd polocies would advise against employees sharing passords as well as implimenting the NIST recomendations making it harder for and actor to brute force their way in. The password polocies would also change the admin password for the data base to a more secure option. Secondly The Multifactor authentication should be used because, currently its not, but also it would help further protect against brute force attacks and can be implimented right away and once set up can be lighly maintained. Finally the firewall maintenance tool should be used because rules can be updated in response to futrue events and they would track abnromal network traffic and would help protect agains various DDos attacks. 
+- The reason I chose those three tools is as follows: 
+-First the passowrd polocies would advise against employees sharing passords as well as implimenting the NIST recomendations making it harder for and actor to brute force their way in. The password polocies would also change the admin password for the data base to a more secure option. 
+-Secondly The Multifactor authentication should be used because, currently its not, but also it would help further protect against brute force attacks and can be implimented right away and once set up can be lighly maintained. 
+-Finally the firewall maintenance tool should be used because rules can be updated in response to futrue events and they would track abnromal network traffic and would help protect agains various DDos attacks. 
