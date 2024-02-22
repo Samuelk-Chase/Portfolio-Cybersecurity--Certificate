@@ -4,13 +4,13 @@
 |-------------------------------------------------------|-----|-----|
 | Least Privilege                                       |     |  x   |
 | Disaster recovery plans                               |     |  x   |
-| Password policies                                     |  x   |     |
+| Password policies                                     |     | x    |
 | Separation of duties                                  |     |  x   |
 | Firewall                                              |  x   |     |
 | Intrusion detection system (IDS)                      |     |  x   |
 | Backups                                               |     |  x   |
 | Antivirus software                                    |   x  |     |
-| Manual monitoring, maintenance, and intervention for legacy systems |   x  |     |
+| Manual monitoring, maintenance, and intervention for legacy systems |     | x    |
 | Encryption                                            |     |  x   |
 | Password management system                            |     |  x   |
 | Locks (offices, storefront, warehouse)               | x    |     |
@@ -41,8 +41,8 @@
 
 | Best Practice                                         | Yes | No  |
 |-------------------------------------------------------|-----|-----|
-| User access policies are established.                 |  x   |     |
+| User access policies are established.                 |     | x    |
 | Sensitive data (PII/SPII) is confidential/private.    |     |  x   |
 | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |  x   |     |
-| Data is available to individuals authorized to access it. |  x   |     |
+| Data is available to individuals authorized to access it. |     | x    |
 
