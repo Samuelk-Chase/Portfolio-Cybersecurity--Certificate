@@ -2,7 +2,7 @@
 
 | Control                                               | Yes | No  |
 |-------------------------------------------------------|-----|-----|
-| Least Privilege                                       |     |     |
+| Least Privilege                                       |     |  x   |
 | Disaster recovery plans                               |     |     |
 | Password policies                                     |     |     |
 | Separation of duties                                  |     |     |
