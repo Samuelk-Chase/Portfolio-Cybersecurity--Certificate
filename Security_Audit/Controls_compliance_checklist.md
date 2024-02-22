@@ -46,6 +46,3 @@
 | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |     |     |
 | Data is available to individuals authorized to access it. |     |     |
 
-#### Recommendations (Optional)
-
-In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
