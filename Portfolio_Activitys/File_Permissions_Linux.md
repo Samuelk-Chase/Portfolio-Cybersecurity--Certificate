@@ -66,4 +66,4 @@ chmod u+rwx my_directory
 
 ## Summary
 
-This README provides a brief overview of managing file and directory permissions in Linux through command-line tools. Refer to the specific sections for detailed instructions and examples.
+This file provides a brief overview of managing file and directory permissions in Linux through command-line tools. Refer to the specific sections for detailed instructions and examples.
