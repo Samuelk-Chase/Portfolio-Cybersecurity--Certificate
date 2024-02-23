@@ -12,6 +12,18 @@ To check file and directory details in Linux, you can use the `ls` command with 
 ls -l <file_or_directory>
 ```
 
+To list all files, including hidden ones, you can use the `-a` option:
+
+```bash
+ls -a
+```
+
+And for a detailed listing of all files, including hidden ones, you can use both `-l` and `-a` options together:
+
+```bash
+ls -la
+```
+
 ## Describe the Permissions String
 
 The permissions string in Linux consists of ten characters, representing the file type and permissions for the owner, group, and others. The characters are divided into three groups of three:
