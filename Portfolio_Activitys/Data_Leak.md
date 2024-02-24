@@ -22,7 +22,4 @@ their company's social media page assuming that it was the promotional materials
 privacy by implementing least privilege. It also suggests control
 enhancements to improve the effectiveness of least privilege.  | 
 | Recommendations                      |  The recommendation for this situation would be to ensure that only the minimal access and authorization requried to complete a task should be provided to employees. Changes should include Automatticlly revoking access to informaiton after a period of time and restricting access t osensitive resources based on user roles               |
-| Justifications                       | Data leaks can be prevented if shared links to internal files are restricted to
-employees only. Also, requiring managers and security teams to regularly
-audit access to team files would help limit the exposure of sensitive
-information.              |
+| Justifications                       | Data leaks can be prevented if shared links to internal files are restricted to employees only. Also, requiring managers and security teams to regularly audit access to team files would help limit the exposure of sensitive information.              |
