@@ -17,11 +17,8 @@ their company's social media page assuming that it was the promotional materials
 
 | Control                              | Least privilege |
 |--------------------------------------|-----------------|
-| Issues                               | Access to the internal folder was not limited to the sales team and the
-manager. The business partner should not have been given permission to
-share the promotional information to social media.              |
+| Issues                               | Access to the internal folder was not limited to the sales team and the manager. The business partner should not have been given permission to share the promotional information to social media.              |
 | Review                               | NIST SP 800-53: AC-6 addresses how an organization can protect their data
-
 privacy by implementing least privilege. It also suggests control
 enhancements to improve the effectiveness of least privilege.  | 
 | Recommendations                      |  The recommendation for this situation would be to ensure that only the minimal access and authorization requried to complete a task should be provided to employees. Changes should include Automatticlly revoking access to informaiton after a period of time and restricting access t osensitive resources based on user roles               |
