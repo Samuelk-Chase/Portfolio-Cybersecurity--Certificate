@@ -7,5 +7,4 @@ To do this, you’ll need to do some accounting on the incident to better unders
 
 |----------------------------- |    Notes                                                |     Issue                                       | Recommendations |
 |------------------------------|---------------------------------------------------------|-------------------------------------------------|-----------------|
-
 |Authorization/authentication  | Time of access 10/03/2023, at 8:29 AM  by Leagal/Administrator, IP address : 152.207.255 255              |   Robert Taylor Jr is an admin. His contract ended in 2019, but his account accessed payroll systems in 2023.          |   User accounts should expire after 30 days. Contractors should have limited access to business resources.  Enable MFA.              | 
