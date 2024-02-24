@@ -13,7 +13,7 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 |date: 2-24-22 |Entry : 1 |
 | Description: | A small U.S. healthcare clinic experienced a ransomware attack, rendering employees unable to access critical files, including medical records. The attack, initiated through targeted phishing emails, encrypted company files and demanded a large ransom for decryption. Business operations halted as a result, prompting the clinic to seek technical assistance and report the incident to relevant authorities. |
 | Tools used: | None |
-|The 5 w's | ● Who: An organized group of unethical hackers ● What: A ransomware security incident ● Where: At a health care company ● When: Tuesday 9:00 a.m. ● Why: The incident happened because unethical hackers were able to access the company's systems using a phishing attack. After gaining access, the attackers launched their ransomware on the company's systems, encrypting critical files. The attackers' motivation appears to be financial because the ransom note they left demanded a large sum of money in exchange for the decryption key.   |
+|The 5 w's | Who: An organized group of unethical hackers. What: A ransomware security incident. Where: At a health care company. When: Tuesday 9:00 a.m. Why: The incident happened because unethical hackers were able to access the company's systems using a phishing attack. After gaining access, the attackers launched their ransomware on the company's systems, encrypting critical files. The attackers' motivation appears to be financial because the ransom note they left demanded a large sum of money in exchange for the decryption key.   |
 |Additional notes: |  1. How could the health care company prevent an incident like this from
 
 occurring again?
