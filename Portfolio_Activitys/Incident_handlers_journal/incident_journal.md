@@ -9,6 +9,7 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 
 
 |       |        |
+|--------|--------|
 |date: record the date here |Entry :Record the journal number |
 | Description: | description here  |
 | Tools used: | list any cybersecurity tools  |
