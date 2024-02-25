@@ -17,7 +17,7 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 |Additional notes: |  1. How could the health care company prevent an incident like this from occurring again? 2. Should the company pay the ransom to retrieve the decryption key?                |
 
 
-       |        |
+ |      |        |
 |--------|--------|
 |date: 2-24-22 |Entry : 2 |
 | Description: |  Analyzing a packet capture file|
@@ -37,7 +37,7 @@ overwhelming. I can see why it's such a powerful tool for understanding
 network traffic.      |
 
 
-       |        |
+|       |        |
 |--------|--------|
 |date: 2-24-22 |Entry : 3 |
 | Description: |  Capturing my first packet|
@@ -58,7 +58,7 @@ redoing some steps, I was able to get through this activity and capture network
 traffic.   |
 
 
-       |        |
+ |      |        |
 |--------|--------|
 |date: 2-24-22 |Entry : 4 |
 | Description: |  Investigate a suspicious file hash|
