@@ -8,25 +8,25 @@ At my organization, access to restricted content is controlled with an allow lis
 
 ## Algorithm
 
-import_file = "allow_list.txt"
+    import_file = "allow_list.txt"
 
 # Open the File
-with open(import_file, "r") as file:
-    # Read the File Contents
-    ip_addresses = file.read()
+    with open(import_file, "r") as file:
+        # Read the File Contents
+        ip_addresses = file.read()
 
-    # Convert the String into a List
-    ip_addresses = ip_addresses.split()
+        # Convert the String into a List
+        ip_addresses = ip_addresses.split()
 
-    # Iterate through the Remove List
-    for element in remove_list:
-        # Remove IP Addresses from the Allow List
-        if element in ip_addresses:
-            ip_addresses.remove(element)
+        # Iterate through the Remove List
+        for element in remove_list:
+            # Remove IP Addresses from the Allow List
+            if element in ip_addresses:
+                ip_addresses.remove(element)
 
 # Update the File
-with open(import_file, "w") as file:
-    file.write("\n".join(ip_addresses))
+    with open(import_file, "w") as file:
+        file.write("\n".join(ip_addresses))
 
 ## Summary
 
